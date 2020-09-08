@@ -102,6 +102,7 @@ class Credentials():
     #     lc=["a","b","c","d","e","f"]
     #     uc=["A","B","C","D","E","F"]
     #     num=["1","2","3","4","5","6"]
-    #     sc=["!","#","@","^","*"]
+    #      sc=["!","#","@","^","*"]
     # pass=random.choice[lc]+random.choice[uc]+random.choice[sc]+random.choice[num]
-    # pass=pass+pass+pass    
+    # pass=pass+pass+pass  
+    # return pass   
